@@ -51,3 +51,79 @@ header nav ul li a{
     font-weight: 400;
     margin: 10px 0px;
 }
+
+#contact-btn:hover{
+    background-color: #fcfbfb;
+}
+
+content{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+    width: 500px;
+}
+.four-1{
+    width: 25px;
+    height: 100px;
+    background-color: #fff;
+    position: relative;
+    right: 40px;
+    top: 102px;
+}
+
+.four-2{
+    width: 25px;
+    height: 100px;
+    rotate: 90deg;
+    position: relative;
+    top: 40px;
+    background-color: #fff;
+}
+
+.four-3{
+    width: 25px;
+    height: 100px;
+    background-color: #fff;
+    position:relative;
+    right: -37px;
+    bottom: 40px;
+}
+
+.zero-1{
+    width: 25px;
+    height: 150px;
+    background-color: #fff;
+    position: relative;
+    right: 40px;
+    top: 200px;
+}
+
+.zero-2{
+    width: 25px;
+    height: 102px;
+    rotate: 90deg;
+    position: relative;
+    top: 10px;
+    right: 2px;
+    background-color: #fff;
+}
+
+.zero-3{
+    width: 25px;
+    height: 150px;
+    background-color: #fff;
+    position:relative;
+    right: -37px;
+    bottom: 52px;
+}
+
+.zero-4{
+    width: 25px;
+    height: 102px;
+    rotate: 90deg;
+    position: relative;
+    top: -114px;
+    right: 2px;
+    background-color: #fff;
+}
